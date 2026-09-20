@@ -22,6 +22,13 @@ https://github.com/costamesatechsolutions/rackticker-plugin-starter
 It installs into its own sandboxed process. If your plugin misbehaves, only your
 plugin restarts — the panel keeps running.
 
+## Building it with an AI agent
+
+`AGENTS.md` in this repository is written for Claude Code, Codex, Cursor and the
+rest: it has the panel's rules, the loop to work in, and the one instruction that
+matters most — **look at the preview image before claiming anything works**. Point
+your agent at this folder and it has what it needs.
+
 ## Make it your own
 
 1. **Use this template** (or fork), and clone your copy.
